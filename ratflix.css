@@ -3,6 +3,6 @@
 
 /* Logo */
 .pageTitle {
-    background-image: url(ratflix_logo.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/Carve/ratflix-styling@main/ratflix_logo.png);
     content: "";
 }
