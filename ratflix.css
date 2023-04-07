@@ -1,0 +1,8 @@
+@import url("https://cdn.jsdelivr.net/npm/jellyskin@latest/dist/main.css");
+@import url("https://cdn.jsdelivr.net/npm/jellyskin@latest/dist/logo.css");
+
+/* Logo */
+.pageTitle {
+    background-image: url(ratflix_logo.png);
+    content: "";
+}
